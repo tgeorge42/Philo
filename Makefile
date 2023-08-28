@@ -1,10 +1,10 @@
 NAME = philo
 
-SRC = main.c philo_utils.c init.c
+SRC = main.c philo_utils.c init.c philos_actions.c check_death.c
 
 OBJ = $(SRC:.c=.o)
 
-CFLAGS += -Wall -Wextra -Werror
+CFLAGS += -Wall -Wextra -Werror -g3
 
 CC = cc
 
