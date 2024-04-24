@@ -6,11 +6,11 @@
 /*   By: tgeorge <tgeorge@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/08/14 12:11:34 by tgeorge           #+#    #+#             */
-/*   Updated: 2023/08/28 13:11:43 by tgeorge          ###   ########.fr       */
+/*   Updated: 2024/04/24 18:07:27 by tgeorge          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "philo.h"
+#include "../philo.h"
 
 void	message(t_philo *phi, char *str)
 {

@@ -6,11 +6,11 @@
 /*   By: tgeorge <tgeorge@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/08/28 12:23:23 by tgeorge           #+#    #+#             */
-/*   Updated: 2023/08/28 12:58:26 by tgeorge          ###   ########.fr       */
+/*   Updated: 2024/04/24 18:07:27 by tgeorge          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "philo.h"
+#include "../philo.h"
 
 int	check_die(t_data *data)
 {

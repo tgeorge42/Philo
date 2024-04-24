@@ -6,11 +6,11 @@
 /*   By: tgeorge <tgeorge@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/08/14 12:45:20 by tgeorge           #+#    #+#             */
-/*   Updated: 2023/08/28 14:58:49 by tgeorge          ###   ########.fr       */
+/*   Updated: 2024/04/24 18:07:27 by tgeorge          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "philo.h"
+#include "../philo.h"
 
 int	init_values(t_data *data, int ac, char **av)
 {
